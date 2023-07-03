@@ -1,0 +1,4 @@
+#!D:\Me\Python stuff\Spotify streamlit\env\Scripts\python.exe
+from guitar.cmd import router
+
+router.route()
